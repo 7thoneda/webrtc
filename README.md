@@ -7,6 +7,6 @@ Watch the video here: https://youtu.be/rstmow2SHm4?si=nyuuqbis_kqiviqe
 
 For more such content related do like, comment and subscribe my channel https://www.youtube.com/@dileshtanna
 
-Medium article: https://medium.com/@fengliu_367/getting-st...
+Medium article: https://medium.com/@fengliu_367/getting-started-with-webrtc-a-practical-guide-with-example-code-b0f60efdd0a7
 Next.Js Docs: https://nextjs.org/docs
 Tailwind CSS: https://tailwindcss.com/docs/
